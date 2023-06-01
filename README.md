@@ -7,7 +7,7 @@
 - 💬 Ask me about Fullstack, Cloud Engineering (Azure), CI/CD, Docker, Kubernetes, Software Dev...__
 - 🤝 I’m looking for help with Exploring New Technologies.
 - 😄 Pronouns: He/His<br>
-- ⚡ Fun fact: Code for food and game for code and food for workout.
+- ⚡ Fun fact:Game for Code(2) for food(2) for workout
 
 ### Contact me:
 
