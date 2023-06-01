@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning: Cloud Native, AWS, Go__
 - 💬 Ask me about Fullstack, Cloud Engineering (Azure), CI/CD, Docker, Kubernetes, Software Dev...__
 - 🤝 I’m looking for help with Exploring New Technologies.
-- 😄 Pronouns: He/His<br>
-- ⚡ Fun fact:Game for Code(2) for food(2) for workout
+- ⚡ Fun fact: Game for code, code for food,food  for workout.
 
 ### Contact me:
 
